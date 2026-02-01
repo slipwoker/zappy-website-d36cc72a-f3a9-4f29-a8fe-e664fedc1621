@@ -1,0 +1,53 @@
+# LeadFlow — Generative Engine Optimization Map
+
+> A שירותים מקצועיים מרובי תחומים business.
+
+---
+
+## Pages
+
+### Home
+https://leadflow-d36cc72a.zappy5.app
+
+### Services
+https://leadflow-d36cc72a.zappy5.app/services
+
+### About
+https://leadflow-d36cc72a.zappy5.app/about
+
+### Contact
+https://leadflow-d36cc72a.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://leadflow-d36cc72a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://leadflow-d36cc72a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://leadflow-d36cc72a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LeadFlow
+LeadFlow is a business in the שירותים מקצועיים מרובי תחומים industry.
+
+## Target Audience
+עסקים ומקצועות חופשיים בתחומי שיווק, מיתוג, אסטרטגיה, ביטוח, פיננסים ונדלן
+
+## Industry
+שירותים מקצועיים מרובי תחומים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://leadflow-d36cc72a.zappy5.app/sitemap.xml
+- **Robots.txt**: https://leadflow-d36cc72a.zappy5.app/robots.txt
